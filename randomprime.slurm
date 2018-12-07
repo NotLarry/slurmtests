@@ -5,7 +5,7 @@
 #SBATCH --time=00:00:10
 #SBATCH --mem=100M
 #SBATCH --output=python_job_slurm.out
-#SBATCH --array=0-19
+#SBATCH --array=0-3
 
 # These are comment lines
 
